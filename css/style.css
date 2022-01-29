@@ -1,0 +1,33 @@
+@import "_nullstyle.css";
+
+#up{
+	color: red;
+}
+
+.list{
+	color: royalblue;
+}
+
+p{
+	color: seagreen;
+}
+
+ul li span{
+	color: yellow;
+}
+
+p span{
+	color: tomato;
+}
+
+.color{
+	color: blueviolet;
+}
+
+.text{
+	color: turquoise;
+}
+
+.text.big{
+	color: violet;
+}
